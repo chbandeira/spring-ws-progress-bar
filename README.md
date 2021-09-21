@@ -5,6 +5,6 @@ You need to run with a frontend project found here [react-ws-progress-bar](https
 
 This project was bootstrapped with Spring Initializr Maven Project.
 
-## Run
+## Run the app
 
 Runs the `com.example.springwsprogressbar.SpringWsProgressBarApplication` Spring java class.
